@@ -1,0 +1,2 @@
+# site
+Test static site
